@@ -1,0 +1,31 @@
+.contenedor-formulario {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+}
+
+
+h1{
+    text-align: center;
+}
+.text-tarea{
+    margin: auto;
+}
+
+.botonClick{
+    background-color: Red;
+    width: 100px;
+
+    height: 30px;
+    border-radius: 10px;
+    color: white;
+    box-shadow: 10px 5px 5px black;
+    margin: 10px;
+}
+
+.Azul {
+    background-color: blue;
+}
+
+
